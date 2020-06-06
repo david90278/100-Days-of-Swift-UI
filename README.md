@@ -1,3 +1,28 @@
+<strong>Day 7 (May 18, 2020):</strong><br> 
+Closures, Part 2.<br>
+<strong>URL</strong>: https://www.hackingwithswift.com/100/swiftui/1<br>
+<strong>Twitter Progress</strong>: https://twitter.com/frozencode6/status/1262381678800121858?s=21<br>
+
+<strong>Day 6 (May 17, 2020):</strong><br> 
+Closures, Part 1.<br>
+<strong>URL</strong>: https://www.hackingwithswift.com/100/swiftui/1<br>
+<strong>Twitter Progress</strong>: https://twitter.com/frozencode6/status/1262036379875241986?s=21<br>
+
+<strong>Day 5 (May 16, 2020):</strong><br> 
+Functions, Parameters and Errors.<br>
+<strong>URL</strong>: https://www.hackingwithswift.com/100/swiftui/1<br>
+<strong>Twitter Progress</strong>: https://twitter.com/frozencode6/status/1261717149376147456?s=21<br>
+
+<strong>Day 4 (May 15, 2020):</strong><br> 
+Loops all day.<br>
+<strong>URL</strong>: https://www.hackingwithswift.com/100/swiftui/1<br>
+<strong>Twitter Progress</strong>: https://twitter.com/frozencode6/status/1261320745197551617?s=21<br>
+
+<strong>Day 3 (May 14, 2020):</strong><br> 
+Operators and conditions.<br>
+<strong>URL</strong>: https://www.hackingwithswift.com/100/swiftui/1<br>
+<strong>Twitter Progress</strong>: https://twitter.com/frozencode6/status/1261018617723842560?s=21<br>
+
 <strong>Day 2 (May 13, 2020):</strong><br> 
 Arrays, dictionaries, sets and enums.<br>
 <strong>URL</strong>: https://www.hackingwithswift.com/100/swiftui/1<br>
