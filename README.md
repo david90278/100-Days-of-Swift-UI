@@ -1,3 +1,18 @@
+<strong>Day 10 (May 21, 2020):</strong><br> 
+Classes and inheritance<br>
+<strong>URL</strong>: https://www.hackingwithswift.com/100/swiftui/10<br>
+<strong>Twitter Progress</strong>: https://twitter.com/frozencode6/status/1263134870198353920?s=21<br>
+
+<strong>Day 9 (May 20, 2020):</strong><br> 
+Access control, static properties and laziness<br>
+<strong>URL</strong>: https://www.hackingwithswift.com/100/swiftui/9<br>
+<strong>Twitter Progress</strong>: https://twitter.com/frozencode6/status/1263134870198353920?s=21<br>
+
+<strong>Day 8 (May 19, 2020):</strong><br> 
+Structs, properties and methods<br>
+<strong>URL</strong>: https://www.hackingwithswift.com/100/swiftui/8<br>
+<strong>Twitter Progress</strong>: https://twitter.com/frozencode6/status/1262755940324917257?s=21<br>
+
 <strong>Day 7 (May 18, 2020):</strong><br> 
 Closures, Part 2.<br>
 <strong>URL</strong>: https://www.hackingwithswift.com/100/swiftui/7<br>
