@@ -1,3 +1,23 @@
+<strong>Day 14 (May 25, 2020):</strong><br> 
+Swift review Day 2<br>
+<strong>URL</strong>: https://www.hackingwithswift.com/100/swiftui/14<br>
+<strong>Twitter Progress</strong>: https://twitter.com/frozencode6/status/1265079400107655169?s=21<br>
+
+<strong>Day 13 (May 24, 2020):</strong><br> 
+Swift review Day 1<br>
+<strong>URL</strong>: https://www.hackingwithswift.com/100/swiftui/13<br>
+<strong>Twitter Progress</strong>: https://twitter.com/frozencode6/status/1264600579252183045?s=21<br>
+
+<strong>Day 12 (May 23, 2020):</strong><br> 
+Optionals, unwrapping and typecasting<br>
+<strong>URL</strong>: https://www.hackingwithswift.com/100/swiftui/12<br>
+<strong>Twitter Progress</strong>: https://twitter.com/frozencode6/status/1264185167251337223?s=21<br>
+
+<strong>Day 11 (May 22, 2020):</strong><br> 
+Protocols, extensions and protocol extensions<br>
+<strong>URL</strong>: https://www.hackingwithswift.com/100/swiftui/11<br>
+<strong>Twitter Progress</strong>: https://twitter.com/frozencode6/status/1263815126378876929?s=21<br>
+
 <strong>Day 10 (May 21, 2020):</strong><br> 
 Classes and inheritance<br>
 <strong>URL</strong>: https://www.hackingwithswift.com/100/swiftui/10<br>
