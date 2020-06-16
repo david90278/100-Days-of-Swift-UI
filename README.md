@@ -1,3 +1,39 @@
+
+<strong>Day 21 (June 4, 2020):</strong><br> 
+Project 2, Part 2<br>
+<strong>URL</strong>: https://www.hackingwithswift.com/100/swiftui/21<br>
+<strong>Twitter Progress</strong>: https://twitter.com/frozencode6/status/1268539653625348102?s=21>
+
+<strong>Day 20 (June 1, 2020):</strong><br> 
+Project 2, Part 1<br>
+<strong>URL</strong>: https://www.hackingwithswift.com/100/swiftui/20<br>
+<strong>Twitter Progress</strong>: https://twitter.com/frozencode6/status/1267603540601520128?s=21>
+
+<strong>Day 19 (June 1, 2020):</strong><br> 
+Challenge Day<br>
+<strong>URL</strong>: https://www.hackingwithswift.com/100/swiftui/19<br>
+<strong>Twitter Progress</strong>: https://twitter.com/frozencode6/status/1267436340250988545?s=21>
+
+<strong>Day 18 (May 29, 2020):</strong><br> 
+Project 1, Part 3<br>
+<strong>URL</strong>: https://www.hackingwithswift.com/100/swiftui/18<br>
+<strong>Twitter Progress</strong>: https://twitter.com/frozencode6/status/1266396357058654212?s=21>
+
+<strong>Day 17 (May 28, 2020):</strong><br> 
+Project 1, Part 2<br>
+<strong>URL</strong>: https://www.hackingwithswift.com/100/swiftui/17<br>
+<strong>Twitter Progress</strong>: https://twitter.com/frozencode6/status/1265983114515378176?s=21>
+
+<strong>Day 16 (May 27, 2020):</strong><br> 
+Project 1, Part 1<br>
+<strong>URL</strong>: https://www.hackingwithswift.com/100/swiftui/16<br>
+<strong>Twitter Progress</strong>: https://twitter.com/frozencode6/status/1265640665242759171?s=21>
+
+<strong>Day 15 (May 26, 2020):</strong><br> 
+Swift review Day 3<br>
+<strong>URL</strong>: https://www.hackingwithswift.com/100/swiftui/15<br>
+<strong>Twitter Progress</strong>: https://twitter.com/frozencode6/status/1265278654403108865?s=21br>
+
 <strong>Day 14 (May 25, 2020):</strong><br> 
 Swift review Day 2<br>
 <strong>URL</strong>: https://www.hackingwithswift.com/100/swiftui/14<br>
